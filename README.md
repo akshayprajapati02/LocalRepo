@@ -1,1 +1,1 @@
-#This is my local repor craeted for push local folder work to remote git repo
+# This is my local repor craeted for push local folder work to remote git repo
